@@ -26,6 +26,10 @@ Markdown的学习笔记
 
 ***
 
-插入超链接：![screen-capture](1a8e6a9e0a8936cc431af0a239559b05.png) [百度](https://www.baidu.com)
+插入超链接：
 
-插入图片：    ![screen-capture](b059578025c2c06d8b9c230ec4187668.png)![](图片链接地址)
+![screen-capture](1a8e6a9e0a8936cc431af0a239559b05.png) [百度一下](https://www.baidu.com)
+
+插入图片：
+
+![screen-capture](b059578025c2c06d8b9c230ec4187668.png)![](图片链接地址)
